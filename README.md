@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently a student of **Amity University Lucknow**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python, SQL**
 
 - 📫 How to reach me **sudhanshi675@gmail.com**
 
@@ -26,4 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhanshi675&show_icons=true&locale=en&layout=compact" alt="sudhanshi675" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhanshi675&show_icons=true&locale=en" alt="sudhanshi675" /></p>
+
 
