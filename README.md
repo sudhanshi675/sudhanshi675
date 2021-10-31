@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently a student of **Amity University Lucknow**
 
-- 🌱 I’m currently learning **Python, SQL**
+- 🌱 I’m currently learning **Python, SQL, PowerBI**
 
 - 📫 How to reach me **sudhanshi675@gmail.com**
 
