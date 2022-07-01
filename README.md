@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhanshi675" alt="sudhanshi675" /></a> </p>
 
-- 🔭 I’m currently a student of **Amity University Lucknow**
+- 🔭 Completed my MBA from **Amity University**
 
 - 🌱 I’m currently learning **Python, SQL, PowerBI**
 
